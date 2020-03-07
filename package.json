@@ -1,0 +1,10 @@
+{
+  "name": "node-js-test-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Patryk Płaczek <patryk.placzek@wp.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
